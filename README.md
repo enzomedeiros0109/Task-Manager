@@ -4,8 +4,9 @@ Task Manager é um projeto de gerenciamento de tarefas simples desenvolvido em J
 
 ## Funcionalidades
 
-- Adicionar novas tarefas.
-- Remover tarefas da lista.
+- Adicioanr e remover pessoas.
+- Adicionar e remover tarefas para cada pessoa.
+- Leitura e escrita das informações em um arquivo csv dentro do próprio projeto java.
 
 ## Requisitos
 
