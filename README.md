@@ -1,6 +1,6 @@
 # Task Manager
 
-Task Manager é um projeto universitário de gerenciamento de tarefas simples desenvolvido em Java. Ele permite que os usuários adicionem, editem e removam tarefas de uma lista.
+Task Manager é um projeto universitário de gerenciamento de tarefas simples desenvolvido em Java. Ele permite que os usuários adicionem e removam pessoas ou obrigações de um arquivo csv.
 
 ## Funcionalidades
 
